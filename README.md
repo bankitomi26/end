@@ -5,9 +5,9 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
-        <meta name="author" content="" />
-        <title>Coming Soon - Start Bootstrap Theme</title>
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <meta name="BTK" content="" />
+        <title>Flower</title>
+        <link rel="icon" type="image/x-icon" href="assets/istockphoto-1208448157-170667a.jpg" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -18,7 +18,7 @@
     </head>
     <body>
         <div class="overlay"></div>
-        <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop"><source src="assets/mp4/bg.mp4" type="video/mp4" /></video>
+        <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop"><source src="claude-monet-3d-animation-luca-agnani-studio.mp4" type="video/mp4" /></video>
         <div class="masthead">
             <div class="masthead-bg"></div>
             <div class="container h-100">
@@ -28,13 +28,7 @@
                             <h1 class="mb-3">Coming Soon!</h1>
                             <p class="mb-5">
                                 We're working hard to finish the development of this site. Our target launch date is
-                                <strong>January 2022!</strong>
-                                Sign up for updates using the form below!
-                            </p>
-                            <div class="input-group input-group-newsletter">
-                                <input class="form-control" type="email" placeholder="Enter email..." aria-label="Enter email..." aria-describedby="submit-button" />
-                                <div class="input-group-append"><button class="btn btn-secondary" id="submit-button" type="button">Notify Me!</button></div>
-                            </div>
+                                <strong>2021.05.31!</strong>                               
                         </div>
                     </div>
                 </div>
@@ -43,13 +37,13 @@
         <div class="social-icons">
             <ul class="list-unstyled text-center mb-0">
                 <li class="list-unstyled-item">
-                    <a href="#!"><i class="fab fa-twitter"></i></a>
+                    <a href="https://twitter.com/account/access"><i class="fab fa-twitter"></i></a>
                 </li>
                 <li class="list-unstyled-item">
-                    <a href="#!"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.facebook.com/tamas.banki.90/"><i class="fab fa-facebook-f"></i></a>
                 </li>
                 <li class="list-unstyled-item">
-                    <a href="#!"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
                 </li>
             </ul>
         </div>

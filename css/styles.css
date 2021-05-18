@@ -10031,7 +10031,7 @@ video {
 
 @media (pointer: coarse) and (hover: none) {
   body {
-    background: url("../assets/img/bg-mobile-fallback.jpg") #002E66 no-repeat center center scroll;
+    background: url("../") #002E66 no-repeat center center scroll;
     background-size: cover;
   }
 

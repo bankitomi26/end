@@ -36,6 +36,9 @@
         </div>
         <div class="social-icons">
             <ul class="list-unstyled text-center mb-0">
+                 <li class="list-unstyled-item">
+                    <a href="https://github.com/bankitomi26"><i class="fab fa-github"></i></a>
+                 </li>
                 <li class="list-unstyled-item">
                     <a href="https://twitter.com/account/access"><i class="fab fa-twitter"></i></a>
                 </li>
